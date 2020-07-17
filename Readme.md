@@ -1,4 +1,4 @@
-# narazaka - 奈良阪
+# Narazaka - 奈良阪
 
 Likes Perl/C#/TypeScript(JavaScript)/Ruby, likes Windows and Linux, and loves free softwares (likes zlib licenses!).
 
