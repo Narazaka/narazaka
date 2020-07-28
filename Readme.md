@@ -5,7 +5,7 @@ Perl/C#/TypeScript(JavaScript)/Rubyなどを好みWindowsとLinuxが好きなて
 ## Narazakas
 
 <details>
-<summary>Narazakas</summary>
+<summary>Narazaka accounts</summary>
 
 - [Website(old): 原色奈良阪](https://narazaka.net/)
 - [Blog: Narazaka::Blog](https://narazaka.hatenablog.jp/)
@@ -34,9 +34,6 @@ Perl/C#/TypeScript(JavaScript)/Rubyなどを好みWindowsとLinuxが好きなて
 - [seedtable](https://github.com/seed-ui/seedtable) ExcelとYAMLデータの相互変換ツール。xlsxではなくyamlを保存形式とすることでVCSフレンドリーなデータ管理を。
 
 ## Small libraries / tools
-
-<details>
-<summary>Small libraries / tools</summary>
 
 ### JavaScript/TypeScript
 
@@ -91,4 +88,4 @@ Perl/C#/TypeScript(JavaScript)/Rubyなどを好みWindowsとLinuxが好きなて
 - [三軒野鉄道](https://narazaka.github.io/sangenya/) 三軒野鉄道公式Webサイト
 
 最近はVRChatにかまけてて、[VRChat Profile](https://vrcprofile.com/)という野良プロフィールサイトをやったりしています。これの鯖代安いけど赤字だったりするあたり。
-</details>
+
