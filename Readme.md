@@ -34,6 +34,8 @@ Perl/C#/TypeScript(JavaScript)/Rubyなどを好みWindowsとLinuxが好きなて
 
 - [イカガカ](http://ikagaka.github.io/Ikagaka.demo/) デスクトップマスコットアプリ「伺か」ランタイムのJavaScript製ブラウザ互換実装（表示部分以外を担当）
 - [seedtable](https://github.com/seed-ui/seedtable) ExcelとYAMLデータの相互変換ツール。xlsxではなくyamlを保存形式とすることでVCSフレンドリーなデータ管理を。
+- [swagger-serializer](https://github.com/Narazaka/swagger-serializer) Rails API等でシームレスに使えるSwaggerシリアライズ・デシリアライズ・スキーマ記述ライブラリスイート
+  - [json-schema-serializer](https://github.com/Narazaka/json-schema-serializer) できる限り型どおり出力するJSONスキーマベースシリアライザ
 
 ## Small libraries / tools
 
@@ -49,8 +51,6 @@ Perl/C#/TypeScript(JavaScript)/Rubyなどを好みWindowsとLinuxが好きなて
 - その他イカガカ・伺か関連ライブラリ色々
 
 ### Ruby
-- [swagger-serializer](https://github.com/Narazaka/swagger-serializer) Rails API等でシームレスに使えるSwaggerシリアライズ・デシリアライズ・スキーマ記述ライブラリスイート
-- [json-schema-serializer](https://github.com/Narazaka/json-schema-serializer) できる限り型どおり出力するJSONスキーマベースシリアライザ
 - [to_deep_csv](https://github.com/Narazaka/to_deep_csv) `to_csv`の複数行版
 - [find_near_date](https://github.com/Narazaka/find_near_date) DB上のインデックスが張っていない日時カラム指定で効率的にデータを同定するユーティリティー
 - [record_view_helper](https://github.com/Narazaka/record_view_helper) 良い感じに表データをテーブルにしたり定義リストにしたりするやつ
