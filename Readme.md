@@ -19,6 +19,7 @@ Perl/C#/TypeScript(JavaScript)/Rubyなどを好みWindowsとLinuxが好きなて
 - [CPAN: NARAZAKA](http://search.cpan.org/~narazaka/)
 - [npm: narazaka](https://www.npmjs.com/~narazaka)
 - [Rubygems: Narazaka](https://rubygems.org/profiles/Narazaka)
+- [NuGet: narazaka](https://www.nuget.org/profiles/narazaka)
 - [VRChat: narazaka](https://vrchat.com/home/user/usr_bc62f4df-3c06-4c5a-b879-ac6f098d8e58)
 - [cluster: narazaka](https://cluster.mu/u/narazaka)
 - [Pixiv: 奈良阪](http://www.pixiv.net/member.php?id=827022)
