@@ -60,6 +60,10 @@ Perl/C#/TypeScript(JavaScript)/Rubyなどを好みWindowsとLinuxが好きなて
 - [p6-perf](https://github.com/Narazaka/p6-perf) Raku(Perl6)のパフォーマンス定期計測リポジトリ
 - [Config-Column](https://github.com/Narazaka/Config-Column) 遙か昔に作ったPerlのテキストDBライブラリ
 
+### C#
+
+- [EnumWithValues](https://github.com/Narazaka/EnumWithValues) C#のenumが特にstring対応苦しい問題への構文糖的なライブラリ（source generator使用）
+
 ### その他言語
 
 - [cshiori](http://narazaka.github.io/cshiori/) C製SHIORI（伺か）
@@ -82,6 +86,7 @@ Perl/C#/TypeScript(JavaScript)/Rubyなどを好みWindowsとLinuxが好きなて
 - [shiori-nim](https://github.com/Narazaka/shiori-nim) for Nim
 - [shiorigo](https://github.com/Narazaka/shiorigo) for Go
 - [cshiori](https://github.com/Narazaka/cshiori) for C
+- [ShioriSharp](https://github.com/Narazaka/ShioriSharp) for C#
 
 ### VRChat
 
