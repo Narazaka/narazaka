@@ -5,6 +5,8 @@ Perl/C#/TypeScript(JavaScript)/Rubyなどを好みWindowsとLinuxが好きなて
 [![trophy](https://github-profile-trophy.vercel.app/?username=Narazaka)](https://github.com/ryo-ma/github-profile-trophy)
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=narazaka&show_icons=true)
 
+![Profile view](https://komarev.com/ghpvc/?username=Narazaka)
+
 ## Narazakas
 
 <details>
