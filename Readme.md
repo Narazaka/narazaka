@@ -2,6 +2,7 @@ Likes Perl/C#/TypeScript(JavaScript)/Ruby, likes Windows and Linux, and loves fr
 
 Perl/C#/TypeScript(JavaScript)/Rubyなどを好みWindowsとLinuxが好きなてきとう自由ソフトウェア主義者。奈良県出身。
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Narazaka)](https://github.com/ryo-ma/github-profile-trophy)
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=narazaka&show_icons=true)
 
 ## Narazakas
