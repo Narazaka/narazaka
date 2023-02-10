@@ -15,6 +15,8 @@ Perl/C#/TypeScript(JavaScript)/Rubyなどを好みWindowsとLinuxが好きなて
 - [Website(old): 原色奈良阪](https://narazaka.net/)
 - [Blog: Narazaka::Blog](https://narazaka.hatenablog.jp/)
 - [Twitter: @narazaka](https://twitter.com/narazaka)
+- [Misskey.io: @narazaka](https://misskey.io/@narazaka)
+- [くるっぷ: @narazaka](https://crepu.net/user/narazaka)
 - [Speaker Deck: Narazaka](https://speakerdeck.com/Narazaka)
 - [Github: Narazaka](https://github.com/Narazaka)
 - [Gitlab: Narazaka](https://gitlab.com/Narazaka)
