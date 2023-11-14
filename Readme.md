@@ -45,6 +45,10 @@ Perl/C#/TypeScript(JavaScript)/Rubyなどを好みWindowsとLinuxが好きなて
 
 ## Small libraries / tools
 
+### VRChat
+
+- [VPM Repository](https://vpm.narazaka.net) に各種あります
+
 ### JavaScript/TypeScript
 
 - [fso](https://github.com/Narazaka/fso) RubyのPathnameのようにパスをオブジェクトにして操作をラクにするライブラリ。便利。
